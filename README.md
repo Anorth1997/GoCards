@@ -1,0 +1,1 @@
+This is my first dummy Go project, the purpose of it is to get familiar with the basics of this programming lanaguage.
